@@ -4,7 +4,7 @@ This repository contains the training pipeline for predicting the shaping and de
 
 ## About the Dataset
 
-The graph data is already prepared and located in the `MGDataset` directory. 
+The graph data is already prepared and located in the `MGDataset` directory. As the file size exceeds the GitHub limit, it has been uploaded to the Figshare shared repository with the link: . You only need to simply place this file in the directory like this: ./MGDataset.
 
 **Sample Details:**
 * The primary dataset consists of 120 Cu64Zr36 metallic glass samples.
